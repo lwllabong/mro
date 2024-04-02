@@ -1,7 +1,7 @@
 # Good Morning 
 
 001- Typing
-<img src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif" width="600">
+<img src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif" width="500">
 <br><br>
 
 002- Pro Coder
